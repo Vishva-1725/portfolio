@@ -181,7 +181,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background: var(--gray-light);
+    background: white;
     backdrop-filter: blur(10px);
     z-index: 1000;
     padding: 20px 0;
