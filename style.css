@@ -85,7 +85,7 @@ body {
     border-radius: 50%;
     border-top-color: #8BE9FD;
     margin-bottom: 30px;
-    animation: spin 1.2s linear infinite;
+    animation: spin 1s linear infinite;
 }
 
 .loading-text {
