@@ -248,7 +248,7 @@ body {
 
 .menu-toggle {
     display: none;
-    background: transparent;
+    background: none;
     border: none;
     font-size: 2rem;
     color: var(--dark);
