@@ -238,7 +238,7 @@ body {
     position: relative;
 }
 
-.nav-links i {
+.nav-links a i {
     color: #36D1DC;
 }
 
@@ -246,17 +246,14 @@ body {
     color: #B36ABC;
 }
 
-.nav-links i:hover {
+.nav-links a i:hover {
     color: #B36ABC;
 }
 
-.nav-links btn-resume{
-    color: #B36ABC;
-}
 
 .menu-toggle {
     display: none;
-    background: #B36ABC;
+    background: transparent;
     border: none;
     font-size: 1.5rem;
     color: var(--dark);
